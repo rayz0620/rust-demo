@@ -1,0 +1,8 @@
+[package]
+name = "iron-hello"
+version = "0.1.0"
+authors = ["RayZ0620 <rayz0620@hotmail.com>"]
+
+[dependencies]
+iron = "*"
+# rustc_serialize = "*"

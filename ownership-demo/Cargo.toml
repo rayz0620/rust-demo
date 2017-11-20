@@ -1,0 +1,6 @@
+[package]
+name = "ownership-demo"
+version = "0.1.0"
+authors = ["RayZ0620 <rayz0620@hotmail.com>"]
+
+[dependencies]
